@@ -1,0 +1,20 @@
+#SS{
+    margin-left: 50%;
+  
+}
+button{
+    width:180PX ;
+    height: 25PX;
+  color: white;
+    background-color: rgb(6, 32, 180);
+    border: 1px solid rgb(6, 32, 180);
+    margin-top: 15px;
+    border-radius: 10PX;
+
+
+}
+input{
+border: 1px solid #7a7979;
+    border-radius: 7px; 
+   
+} 

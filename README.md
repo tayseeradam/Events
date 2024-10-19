@@ -1,30 +1,15 @@
-# Events 
-## Events
-### Events
-#### Events
-##### Events
-###### Events
 
-- List 1
-- List 2
-- List 3
-
-1. List 1
-2. List 2
-
-`code block`
-
-`this is a code block`
-
-```javascript
-const name =`tota`
-function greeting = () =>{
- console.log(`hello`)
-}
-
+# Events
+ Events is an action that occurs within a browser.
  
+An even can be something like:
+-  a user clicking on a button
+- typing in an input 
+- a page loading
 
-
-
-
-
+## Common Events
+- onclick
+- ondbclick
+- onmousover
+- onmouseout
+- onfocus
